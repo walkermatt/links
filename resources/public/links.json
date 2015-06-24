@@ -1,0 +1,3194 @@
+[
+    {
+        "add_date": 1434384597,
+        "tags": [
+            "cljs"
+        ],
+        "title": "cljsbuild",
+        "url": "https://github.com/emezeske/lein-cljsbuild"
+    },
+    {
+        "add_date": 1434382321,
+        "tags": [
+            "js",
+            "es6"
+        ],
+        "title": "Exploring ES6",
+        "url": "https://leanpub.com/exploring-es6/read"
+    },
+    {
+        "add_date": 1428493629,
+        "tags": [
+            "cidr",
+            "networking"
+        ],
+        "title": "CIDR Utility Tool | IP Address Guide",
+        "url": "http://www.ipaddressguide.com/cidr"
+    },
+    {
+        "add_date": 1426171624,
+        "tags": [
+            "screen",
+            "linux"
+        ],
+        "title": "arundelo: GNU Screen cheat-sheet",
+        "url": "http://arundelo.livejournal.com/390.html"
+    },
+    {
+        "add_date": 1421424949,
+        "tags": [
+            "readline",
+            "bash"
+        ],
+        "title": "Readline keyboard shortcuts for bash, bc, ftp, gnuplot, gpg, ksh, mysql, psql, python, smbclient, xmllint and zsh",
+        "url": "http://www.bigsmoke.us/readline/shortcuts"
+    },
+    {
+        "add_date": 1420634852,
+        "tags": [
+            "date",
+            "time"
+        ],
+        "title": "For a Good Strftime - Easy Skeezy Ruby Date/Time Formatting",
+        "url": "http://www.foragoodstrftime.com/"
+    },
+    {
+        "add_date": 1420634815,
+        "tags": [
+            "bash"
+        ],
+        "title": "How do I diff the output of two commands? - Ask Ubuntu",
+        "url": "http://askubuntu.com/a/229450/366447"
+    },
+    {
+        "add_date": 1420200511,
+        "tags": [
+            "crontab"
+        ],
+        "title": "cron checker",
+        "url": "http://cronchecker.net/"
+    },
+    {
+        "add_date": 1415556359,
+        "tags": [
+            "cljs",
+            "js"
+        ],
+        "title": "ClojureScript <> JavaScript",
+        "url": "http://himera.herokuapp.com/synonym.html"
+    },
+    {
+        "add_date": 1415552227,
+        "tags": [
+            "js"
+        ],
+        "title": "Google Closure Javascript Library for Beginners. Cheat sheet",
+        "url": "http://anton.shevchuk.name/wp-demo/closure-tutorials/cheatsheet.html"
+    },
+    {
+        "add_date": 1409558552,
+        "tags": [
+            "vim"
+        ],
+        "title": "Replacing All The Things with Unite.vim \u2014 Codeography",
+        "url": "http://www.codeography.com/2013/06/17/replacing-all-the-things-with-unite-vim.html"
+    },
+    {
+        "add_date": 1407261813,
+        "tags": [
+            "python",
+            "postgres",
+            "testing"
+        ],
+        "title": "testing.postgresql 1.0.5 : Python Package Index",
+        "url": "https://pypi.python.org/pypi/testing.postgresql/"
+    },
+    {
+        "add_date": 1407261768,
+        "tags": [
+            "linux",
+            "ssd",
+            "browser"
+        ],
+        "title": "Keep Your Browser Profiles In tmpfs (RAM) For Reduced Disk Writes And Increased Performance With Profile Sync Daemon ~ Web Upd8: Ubuntu / Linux blog",
+        "url": "http://www.webupd8.org/2013/02/keep-your-browser-profiles-in-tmpfs-ram.html"
+    },
+    {
+        "add_date": 1407049340,
+        "tags": [
+            "testing",
+            "postgres"
+        ],
+        "title": "Ephemeral Postgres Databases",
+        "url": "http://eradman.com/posts/ephemeral-databases.html"
+    },
+    {
+        "add_date": 1404819114,
+        "tags": [
+            "email"
+        ],
+        "title": "Convert Outlook .msg",
+        "url": "https://secdiary.com/forensics/reading-msg-files-in-linux-command-line/"
+    },
+    {
+        "add_date": 1404544091,
+        "tags": [
+            "ssh"
+        ],
+        "title": "SSH Tunnel - Local and Remote Port Forwarding Explained With Examples - sensible.io Blog",
+        "url": "http://blog.sensible.io/2014/05/17/ssh-tunnel-local-and-remote-port-forwarding-explained-with-examples.html"
+    },
+    {
+        "add_date": 1404418583,
+        "tags": [
+            "git"
+        ],
+        "title": "\u201cMerge pull request\u201d Considered Harmful",
+        "url": "http://blog.spreedly.com/2014/06/24/merge-pull-request-considered-harmful/#.U7W2EP7gDVN"
+    },
+    {
+        "add_date": 1395956651,
+        "tags": [
+            "linux",
+            "bash"
+        ],
+        "title": "Command line one-liners | Arturo Herrero",
+        "url": "http://arturoherrero.com/2013/11/29/command-line-one-liners/"
+    },
+    {
+        "add_date": 1395956600,
+        "tags": [
+            "linux",
+            "bash",
+            "find"
+        ],
+        "title": "25 examples of Linux find command \u2013 search files from command line",
+        "url": "http://www.binarytides.com/linux-find-command-examples/"
+    },
+    {
+        "add_date": 1389099548,
+        "tags": [
+            "apache"
+        ],
+        "title": "Apache logfiles to csv - kaefert's wiki",
+        "url": "http://kaefert.is-a-geek.org/mediawiki/index.php/Apache_logfiles_to_csv"
+    },
+    {
+        "add_date": 1389099407,
+        "tags": [
+            "speaking"
+        ],
+        "title": "Advice for new and aspiring technical speakers | NCZOnline",
+        "url": "http://www.nczonline.net/blog/2013/01/10/advice-for-new-and-aspiring-technical-speakers/"
+    },
+    {
+        "add_date": 1382370672,
+        "tags": [
+            "clojure",
+            "video"
+        ],
+        "title": "None",
+        "url": "http://jamesabbottdd.com/clojure/best-clojure-video-tutorial"
+    },
+    {
+        "add_date": 1381690779,
+        "tags": [
+            "python",
+            "qgis"
+        ],
+        "title": "QGIS 1.8 to 2.0 API changes",
+        "url": "http://hub.qgis.org/wiki/17/Python_plugin_API_changes_from_18_to_20"
+    },
+    {
+        "add_date": 1381690722,
+        "tags": [
+            "clojure",
+            "tutorial",
+            "lisp"
+        ],
+        "title": "Clojure - Functional Programming for the JVM",
+        "url": "http://java.ociweb.com/mark/clojure/article.html"
+    },
+    {
+        "add_date": 1381690595,
+        "tags": [
+            "redis",
+            "database"
+        ],
+        "title": "Command reference \u2013 Redis",
+        "url": "http://redis.io/commands"
+    },
+    {
+        "add_date": 1376495416,
+        "tags": [
+            "mapserver"
+        ],
+        "title": "smercier1.mapgears.com",
+        "url": "http://smercier1.mapgears.com/blog/?p=37"
+    },
+    {
+        "add_date": 1371149332,
+        "tags": [
+            "python"
+        ],
+        "title": "None",
+        "url": "http://blog.ionelmc.ro/2013/06/05/python-debugging-tools/"
+    },
+    {
+        "add_date": 1369593144,
+        "tags": [
+            "web"
+        ],
+        "title": "None",
+        "url": "http://pchiusano.blogspot.ch/2013/05/the-future-of-software-end-of-apps-and.html?m=1"
+    },
+    {
+        "add_date": 1368975950,
+        "tags": [
+            "css"
+        ],
+        "title": "conditional-loading-of-resources-with-mediaqueries",
+        "url": "http://christianheilmann.com/2012/12/19/conditional-loading-of-resources-with-mediaqueries/"
+    },
+    {
+        "add_date": 1367509149,
+        "tags": [
+            "js",
+            "url"
+        ],
+        "title": "URI.js - API Documentation",
+        "url": "http://medialize.github.io/URI.js/docs.html"
+    },
+    {
+        "add_date": 1367233579,
+        "tags": [
+            "bash"
+        ],
+        "title": "Bash options",
+        "url": "http://www.faqs.org/docs/abs/HTML/options.html"
+    },
+    {
+        "add_date": 1362393223,
+        "tags": [
+            "linked-data",
+            "rdf",
+            "sparql"
+        ],
+        "title": "learnlinkeddata",
+        "url": "http://learnlinkeddata.com/articles"
+    },
+    {
+        "add_date": 1362170405,
+        "tags": [
+            "hg"
+        ],
+        "title": "Named branches in Mercurial",
+        "url": "http://humblecoder.co.uk/blog/2010/02/24/working-with-named-branches-in-mercurial/"
+    },
+    {
+        "add_date": 1360315071,
+        "tags": [
+            "webdesign",
+            "testing"
+        ],
+        "title": "The Responsinator",
+        "url": "http://responsinator.com/"
+    },
+    {
+        "add_date": 1359749667,
+        "tags": [
+            "git"
+        ],
+        "title": "Understanding the Git Workflow",
+        "url": "http://sandofsky.com/blog/git-workflow.html"
+    },
+    {
+        "add_date": 1358190479,
+        "tags": [
+            "python"
+        ],
+        "title": "distribute-setup-py",
+        "url": "http://pypi.python.org/pypi/distribute#distribute-setup-py"
+    },
+    {
+        "add_date": 1358190429,
+        "tags": [
+            "git"
+        ],
+        "title": "the-git-parable",
+        "url": "http://tom.preston-werner.com/2009/05/19/the-git-parable.html"
+    },
+    {
+        "add_date": 1357224504,
+        "tags": [
+            "js",
+            "3d",
+            "maps"
+        ],
+        "title": "Kind of 3D with D3",
+        "url": "http://www.web-maps.com/gisblog/?p=1370"
+    },
+    {
+        "add_date": 1357215465,
+        "tags": [
+            "programming"
+        ],
+        "title": "Visual regex ",
+        "url": "http://www.regexper.com/"
+    },
+    {
+        "add_date": 1356642817,
+        "tags": [
+            "docs",
+            "linux"
+        ],
+        "title": "The Linux Documentation Project: Guides",
+        "url": "http://tldp.org/guides.html"
+    },
+    {
+        "add_date": 1356339495,
+        "tags": [
+            "webdev",
+            "python",
+            "wsgi"
+        ],
+        "title": "WSGI Tutorial",
+        "url": "http://archimedeanco.com/wsgi-tutorial/"
+    },
+    {
+        "add_date": 1355754033,
+        "tags": [
+            "deployment",
+            "cloud",
+            "software"
+        ],
+        "title": "The Twelve-Factor App",
+        "url": "http://www.12factor.net/"
+    },
+    {
+        "add_date": 1355086646,
+        "tags": [
+            "devopts",
+            "upstart"
+        ],
+        "title": "Upstart Intro, Cookbook and Best Practises",
+        "url": "http://upstart.ubuntu.com/cookbook/"
+    },
+    {
+        "add_date": 1355086341,
+        "tags": [
+            "monitoring",
+            "upstart",
+            "devops"
+        ],
+        "title": "Tutorial: How to Deploy Node JS Applications, With Examples - Gun.io",
+        "url": "http://gun.io/blog/tutorial-deploy-node-js-server-with-example/"
+    },
+    {
+        "add_date": 1355086301,
+        "tags": [
+            "devops",
+            "upstart"
+        ],
+        "title": "Monitoring upstart",
+        "url": "http://rtg.in.ua/2012/04/04/a-few-notes-on-upstart/"
+    },
+    {
+        "add_date": 1355083288,
+        "tags": [
+            "python"
+        ],
+        "title": "Better Python APIs | Eventual Consistency",
+        "url": "http://ozkatz.github.com/better-python-apis.html"
+    },
+    {
+        "add_date": 1349958743,
+        "tags": [
+            "fork",
+            "github",
+            "git"
+        ],
+        "title": "Keeping a clean GitHub fork \u2013 Part 1 \u00bb Evan's Blog",
+        "url": "http://blog.evan.pro/keeping-a-clean-github-fork-part-1"
+    },
+    {
+        "add_date": 1349201967,
+        "tags": [
+            "performance",
+            "postgres"
+        ],
+        "title": "Understanding Postgres Performance - Craig Kerstiens",
+        "url": "http://craigkerstiens.com/2012/10/01/understanding-postgres-performance/"
+    },
+    {
+        "add_date": 1349163381,
+        "tags": [
+            "process"
+        ],
+        "title": "simplify-unix-process-herding-with-supervisor",
+        "url": "http://stackful.io/blog/simplify-unix-process-herding-with-supervisor/"
+    },
+    {
+        "add_date": 1346601474,
+        "tags": [
+            "logging",
+            "python"
+        ],
+        "title": "Good logging practice in Python | Victor Lin's coding notes",
+        "url": "http://victorlin.me/2012/08/good-logging-practice-in-python/"
+    },
+    {
+        "add_date": 1346017387,
+        "tags": [
+            "maps"
+        ],
+        "title": "None",
+        "url": "http://www.bbc.co.uk/news/entertainment-arts-19372201"
+    },
+    {
+        "add_date": 1345399379,
+        "tags": [
+            "nfs",
+            "aws"
+        ],
+        "title": "Amazon EC2 and NFS - Hunter Ford",
+        "url": "http://hunterford.me/amazon-ec2-and-nfs/"
+    },
+    {
+        "add_date": 1345384371,
+        "tags": [
+            "terminal"
+        ],
+        "title": "Lifehacker, tips and downloads for getting things done",
+        "url": "http://m.lifehacker.com/5743814/become-a-command-line-ninja-with-these-time+saving-shortcuts"
+    },
+    {
+        "add_date": 1344335424,
+        "tags": [
+            "queue",
+            "async",
+            "python"
+        ],
+        "title": "Async worker for Python",
+        "url": "http://www.mattsnider.com/using-celery-to-handle-asynchronous-processes/"
+    },
+    {
+        "add_date": 1343824490,
+        "tags": [
+            "aws",
+            "ec2"
+        ],
+        "title": "boto - AWS WebServices from Python",
+        "url": "http://docs.pythonboto.org/en/latest/"
+    },
+    {
+        "add_date": 1343815576,
+        "tags": [
+            "ec2"
+        ],
+        "title": "Launching and Deploying Instances with Boto and Fabric | SEOmoz Developer Blog",
+        "url": "http://devblog.seomoz.org/2011/08/launching-and-deploying-instances-with-boto-and-fabric/"
+    },
+    {
+        "add_date": 1343814372,
+        "tags": [
+            "ec2"
+        ],
+        "title": "You Should Use EBS Boot Instances on Amazon EC2 - Alestic.com",
+        "url": "http://alestic.com/2012/01/ec2-ebs-boot-recommended"
+    },
+    {
+        "add_date": 1343668093,
+        "tags": [
+            "ec2",
+            "aws"
+        ],
+        "title": "None",
+        "url": "http://joachimesque.com/globe/index.html.en"
+    },
+    {
+        "add_date": 1342723671,
+        "tags": [
+            "vis",
+            "data"
+        ],
+        "title": "Fast Analytics and Rapid-fire Business Intelligence from Tableau Software | Tableau Software",
+        "url": "http://www.tableausoftware.com/"
+    },
+    {
+        "add_date": 1338321335,
+        "tags": [
+            "s3",
+            "aws"
+        ],
+        "title": "S3Backer Amazon S3 Virtual File System",
+        "url": "http://code.google.com/p/s3backer/w/list"
+    },
+    {
+        "add_date": 1338187010,
+        "tags": [
+            "python"
+        ],
+        "title": "Introduction to Functional Programming",
+        "url": "http://www.freenetpages.co.uk/hp/alan.gauld/tutfctnl.htm"
+    },
+    {
+        "add_date": 1337628131,
+        "tags": [
+            "setup",
+            "ubuntu"
+        ],
+        "title": "Performant and usable Ubuntu",
+        "url": "http://isbullsh.it/2011/11/Lenovo-Ubuntu/"
+    },
+    {
+        "add_date": 1336330641,
+        "tags": [
+            "shell",
+            "bash"
+        ],
+        "title": "Bash 10 second guide",
+        "url": "http://www.aboutlinux.info/2005/10/10-seconds-guide-to-bash-shell.html?m=1"
+    },
+    {
+        "add_date": 1336251371,
+        "tags": [
+            "news",
+            "geo"
+        ],
+        "title": "GeoWeb OpenSource | Scoop.it",
+        "url": "http://www.scoop.it/t/geoweb-opensource"
+    },
+    {
+        "add_date": 1336251284,
+        "tags": [
+            "postgis"
+        ],
+        "title": "Simplifying a map layer using PostGIS topology \u00ab Strk's Blog",
+        "url": "http://strk.keybit.net/blog/2012/04/13/simplifying-a-map-layer-using-postgis-topology/"
+    },
+    {
+        "add_date": 1336066746,
+        "tags": [
+            "design",
+            "css"
+        ],
+        "title": "Responsive Web Design | Pixelstech.net",
+        "url": "http://pixelstech.net/article/index.php?id=1336046380"
+    },
+    {
+        "add_date": 1336066654,
+        "tags": [
+            "deployment",
+            "devops",
+            "python"
+        ],
+        "title": "Python Application Deployment with Native Packages \u2014 Hynek Schlawack",
+        "url": "http://hynek.me/articles/python-app-deployment-with-native-packages/"
+    },
+    {
+        "add_date": 1335277971,
+        "tags": [
+            "webdev",
+            "tools"
+        ],
+        "title": "Modern Web Development",
+        "url": "http://jtaby.com/2012/04/23/modern-web-development-part-1.html"
+    },
+    {
+        "add_date": 1335188517,
+        "tags": [
+            "shell",
+            "linux"
+        ],
+        "title": "Introduction to text manipulation on UNIX-based systems",
+        "url": "http://www.ibm.com/developerworks/aix/library/au-unixtext/index.html"
+    },
+    {
+        "add_date": 1335115368,
+        "tags": [
+            "maps",
+            "t",
+            "openlayers"
+        ],
+        "title": "indiemaps.com/blog \u00bb introducing OpenLayers Symbology",
+        "url": "http://indiemaps.com/blog/2012/04/introducing-openlayers-symbology/"
+    },
+    {
+        "add_date": 1334646303,
+        "tags": [
+            "tutorial",
+            "python"
+        ],
+        "title": "The Hitchhikers Guide to Python! \u2014 pythonguide v0.0.1 documentation",
+        "url": "http://docs.python-guide.org/en/latest/index.html"
+    },
+    {
+        "add_date": 1334259037,
+        "tags": [
+            "tools",
+            "js"
+        ],
+        "title": "A Baseline for Front-End Developers - Adventures in JavaScript Development",
+        "url": "http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/"
+    },
+    {
+        "add_date": 1334216734,
+        "tags": [
+            "decorators",
+            "python"
+        ],
+        "title": "A primer on Python decorators \u2013 Thumbtack Engineering",
+        "url": "http://www.thumbtack.com/engineering/a-primer-on-python-decorators/"
+    },
+    {
+        "add_date": 1334213195,
+        "tags": [
+            "maps"
+        ],
+        "title": "Transcript of Rendering the World Presentation | MapBox",
+        "url": "http://mapbox.com/blog/rendering-the-world/"
+    },
+    {
+        "add_date": 1334047517,
+        "tags": [
+            "principles",
+            "design",
+            "gov.uk"
+        ],
+        "title": "GDS design principles",
+        "url": "https://www.gov.uk/designprinciples"
+    },
+    {
+        "add_date": 1333967565,
+        "tags": [
+            "vim"
+        ],
+        "title": "Nifty Vim Tricks | Terminally Incoherent",
+        "url": "http://www.terminally-incoherent.com/blog/2012/04/02/nifty-vim-tricks/"
+    },
+    {
+        "add_date": 1333609401,
+        "tags": [
+            "python"
+        ],
+        "title": "Everything Sysadmin: Python for Perl Programmers",
+        "url": "http://everythingsysadmin.com/perl2python.html"
+    },
+    {
+        "add_date": 1333105088,
+        "tags": [
+            "management",
+            "development"
+        ],
+        "title": "Optimizing for developer happiness \u00ab Code as Craft",
+        "url": "http://codeascraft.etsy.com/2011/06/06/optimizing-for-developer-happiness/"
+    },
+    {
+        "add_date": 1331814516,
+        "tags": [
+            "remotedesktop",
+            "windows"
+        ],
+        "title": "Remote Desktop connection error | TroubleFixers - All about fixing computer troubles",
+        "url": "http://www.troublefixers.com/fix-remote-desktop-connection-error-the-connection-was-ended-because-of-network-error/"
+    },
+    {
+        "add_date": 1329343396,
+        "tags": [
+            "vim"
+        ],
+        "title": "Vim anti-patterns | Arabesque",
+        "url": "http://blog.sanctum.geek.nz/vim-anti-patterns/"
+    },
+    {
+        "add_date": 1329139145,
+        "tags": [
+            "tutorial",
+            "hg"
+        ],
+        "title": "Chapter\u00a02.\u00a0A tour of Mercurial: the basics",
+        "url": "http://hgbook.red-bean.com/read/a-tour-of-mercurial-the-basics.html"
+    },
+    {
+        "add_date": 1329139102,
+        "tags": [
+            "tutorial",
+            "hg"
+        ],
+        "title": "Mercurial by example",
+        "url": "http://www.ericsink.com/vcbe/html/mercurial_example.html"
+    },
+    {
+        "add_date": 1329068843,
+        "tags": [
+            "makefile",
+            "coffeescript"
+        ],
+        "title": "Some tips on how to write Backbone app using CoffeeScript and make. With source.",
+        "url": "http://solovyov.net/en/2012/02/11/showkr/"
+    },
+    {
+        "add_date": 1328615378,
+        "tags": [
+            "projections",
+            "maps"
+        ],
+        "title": "Understanding Map Projections - macwright.org",
+        "url": "http://macwright.org/2012/01/27/projections-understanding.html"
+    },
+    {
+        "add_date": 1328387677,
+        "tags": [
+            "cheatsheet",
+            "vim"
+        ],
+        "title": "vim movement",
+        "url": "https://github.com/LevelbossMike/vim_shortcut_wallpaper/raw/master/vim-shortcuts_1280x800.png"
+    },
+    {
+        "add_date": 1328257057,
+        "tags": [
+            "python monitor",
+            "p"
+        ],
+        "title": "Monithor - a free alternative to Pingdom | pulsh.com\u00aces=",
+        "url": "http://pulsh.com/2012/01/monithor-a-free-alternative-to-pingdom"
+    },
+    {
+        "add_date": 1328256956,
+        "tags": [
+            "datetime",
+            "python"
+        ],
+        "title": "Introducing Times \u00bb nvie.com",
+        "url": "http://nvie.com/posts/introducing-times/"
+    },
+    {
+        "add_date": 1327655847,
+        "tags": [
+            "python3",
+            "python"
+        ],
+        "title": "Supporting Python\u00a02 and 3 without 2to3 conversion \u2014 Porting to Python 3 - The Book Site",
+        "url": "http://python3porting.com/noconv.html"
+    },
+    {
+        "add_date": 1327312440,
+        "tags": [
+            "buffers",
+            "vim"
+        ],
+        "title": "How can I close a buffer without closing the window? - Stack Overflow",
+        "url": "http://stackoverflow.com/questions/1444322/how-can-i-close-a-buffer-without-closing-the-window"
+    },
+    {
+        "add_date": 1326824608,
+        "tags": [
+            "shell"
+        ],
+        "title": "On TermKit \u2014 Acko.net",
+        "url": "http://acko.net/blog/on-termkit/"
+    },
+    {
+        "add_date": 1326401900,
+        "tags": [
+            "cartography",
+            "maps"
+        ],
+        "title": "Sebastian Delmont - Google+ - Good bye, Google Maps\u2026 thanks for all the fish TL;DR: We\u2026",
+        "url": "https://plus.google.com/u/0/118383351194421484817/posts/foj5A1fURGt"
+    },
+    {
+        "add_date": 1326306879,
+        "tags": [
+            "js"
+        ],
+        "title": "None",
+        "url": "http://blog.errorception.com/2012/01/writing-quality-third-party-js-part-2.html?m=1"
+    },
+    {
+        "add_date": 1326139665,
+        "tags": [
+            "technology"
+        ],
+        "title": "Gardens and Zoos \u2013 Blog \u2013 BERG",
+        "url": "http://berglondon.com/blog/2012/01/06/gardens-and-zoos/"
+    },
+    {
+        "add_date": 1326132217,
+        "tags": [
+            "mod_rewrite",
+            "apache",
+            "htaccess"
+        ],
+        "title": ".htaccess tricks and tips.. part two: url rewriting with mod rewrite.",
+        "url": "http://corz.org/serv/tricks/htaccess2.php"
+    },
+    {
+        "add_date": 1326121099,
+        "tags": [
+            "git"
+        ],
+        "title": "git - the simple guide - no deep shit!",
+        "url": "http://rogerdudler.github.com/git-guide/"
+    },
+    {
+        "add_date": 1325707236,
+        "tags": [
+            "vim"
+        ],
+        "title": "Remove gvim borders",
+        "url": "https://bbs.archlinux.org/viewtopic.php?id=65285"
+    },
+    {
+        "add_date": 1325663352,
+        "tags": [
+            "sysadmin",
+            "configuration",
+            "cdist"
+        ],
+        "title": "cdist - usable configuration management",
+        "url": "http://www.nico.schottelius.org/software/cdist/"
+    },
+    {
+        "add_date": 1325345647,
+        "tags": [
+            "tilemill",
+            "maps"
+        ],
+        "title": "Making maps, part 1: Less interactivity \u00ab News Apps Blog",
+        "url": "http://blog.apps.chicagotribune.com/2011/03/08/making-maps-1/"
+    },
+    {
+        "add_date": 1325243599,
+        "tags": [
+            "requirejs",
+            "js"
+        ],
+        "title": "Build a simple client-side MVC app with RequireJS | @verekia's blog",
+        "url": "http://verekia.com/requirejs/build-simple-client-side-mvc-app-require-js"
+    },
+    {
+        "add_date": 1325194985,
+        "tags": [
+            "config",
+            "vim"
+        ],
+        "title": "Coming Home to Vim / Steve Losh",
+        "url": "http://stevelosh.com/blog/2010/09/coming-home-to-vim/"
+    },
+    {
+        "add_date": 1325154653,
+        "tags": [
+            "vim"
+        ],
+        "title": "Vim - Notes",
+        "url": "http://www.swaroopch.com/notes/Vim"
+    },
+    {
+        "add_date": 1324995192,
+        "tags": [
+            "vimscript",
+            "vim"
+        ],
+        "title": "Learn Vimscript the Hard Way",
+        "url": "http://learnvimscriptthehardway.stevelosh.com/"
+    },
+    {
+        "add_date": 1324995093,
+        "tags": [
+            "thread",
+            "python"
+        ],
+        "title": "Eli Bendersky's website \u00bb Blog Archive \u00bb Python threads: communication and stopping",
+        "url": "http://eli.thegreenplace.net/2011/12/27/python-threads-communication-and-stopping/"
+    },
+    {
+        "add_date": 1324235249,
+        "tags": [
+            "vim"
+        ],
+        "title": "List of vim plugins I use - with mini tutorials \u00bb mirnazim.org",
+        "url": "http://mirnazim.org/writings/vim-plugins-i-use/"
+    },
+    {
+        "add_date": 1323703998,
+        "tags": [
+            "bash",
+            "screen"
+        ],
+        "title": "GNU Screen: an introduction and beginner's tutorial || kuro5hin.org",
+        "url": "http://www.kuro5hin.org/story/2004/3/9/16838/14935"
+    },
+    {
+        "add_date": 1320919811,
+        "tags": [
+            "screen",
+            "bash"
+        ],
+        "title": "GNU screen [quick_reference]",
+        "url": "http://aperiodic.net/screen/quick_reference"
+    },
+    {
+        "add_date": 1320876202,
+        "tags": [
+            "bash",
+            "history"
+        ],
+        "title": "5 Bash tips every Linux user should know | Joshua Drake",
+        "url": "http://joshuadrake.sys-con.com/node/32826"
+    },
+    {
+        "add_date": 1320399567,
+        "tags": [
+            "aws",
+            "loadbalancing",
+            "autoscale"
+        ],
+        "title": "Scaling Out with EC2, CloudWatch, Auto Scaling and Elastic Load Balancing | AF-Design",
+        "url": "http://af-design.com/blog/2009/07/09/scaling-out-with-ec2-cloudwatch-auto-scaling-and-elastic-load-balancing/"
+    },
+    {
+        "add_date": 1320399472,
+        "tags": [
+            "nohup",
+            "linux",
+            "bash",
+            "process",
+            "kill"
+        ],
+        "title": "UNIX Processes",
+        "url": "http://www.cs.trinity.edu/Other_Attractions/unix/chapter5.html"
+    },
+    {
+        "add_date": 1319614677,
+        "tags": [
+            "ishare",
+            "logger"
+        ],
+        "title": "Rochford My Neighbourhood",
+        "url": "http://maps.rochford.gov.uk/myneighbourhood.aspx"
+    },
+    {
+        "add_date": 1319613053,
+        "tags": [
+            "ishare",
+            "logger"
+        ],
+        "title": "My Monmouthshire",
+        "url": "http://maps.monmouthshire.gov.uk/"
+    },
+    {
+        "add_date": 1319612436,
+        "tags": [
+            "logger"
+        ],
+        "title": "Cambridshire Report a Highway Problem",
+        "url": "http://www.cambridgeshire.gov.uk/CMSWebsite/Apps/Highways/ReportProblem1.aspx"
+    },
+    {
+        "add_date": 1319612342,
+        "tags": [
+            "logger",
+            "ishare"
+        ],
+        "title": "Surrey Heath Deepcut Consultation Map",
+        "url": "http://isharemaps.surreyheath.gov.uk/ishare42/projects/deepcut/external/default.aspx#high_street"
+    },
+    {
+        "add_date": 1318450883,
+        "tags": [
+            "linux",
+            "tutorial"
+        ],
+        "title": "Linux Fundamentals, Part 1 - Funtoo Linux",
+        "url": "http://www.funtoo.org/wiki/Linux_Fundamentals%2C_Part_1"
+    },
+    {
+        "add_date": 1317840387,
+        "tags": [
+            "timeline",
+            "js",
+            "map"
+        ],
+        "title": "timemap - Javascript library to help use a SIMILE timeline with online maps including Google, OpenLayers, and Bing. - Google Project Hosting",
+        "url": "http://code.google.com/p/timemap"
+    },
+    {
+        "add_date": 1316518408,
+        "tags": [
+            "w3g"
+        ],
+        "title": "OGR: OGR Simple Feature Library - GDAL: GDAL - Geospatial ...",
+        "url": "http://www.gdal.org/ogr/"
+    },
+    {
+        "add_date": 1316518384,
+        "tags": [
+            "w3g"
+        ],
+        "title": "OS MasterMap Topography Layer - intelligent geographical data",
+        "url": "http://www.ordnancesurvey.co.uk/oswebsite/products/os-mastermap/topography-layer/index.html"
+    },
+    {
+        "add_date": 1316518363,
+        "tags": [
+            "w3g"
+        ],
+        "title": "OSMM Loader w3g talk",
+        "url": "https://github.com/AstunTechnology/osmmloader/wiki/Talk-at-w3g"
+    },
+    {
+        "add_date": 1316443724,
+        "tags": [
+            "osmm",
+            "mapserver"
+        ],
+        "title": "OSMM anchorPosition / Font in MapServer Mapfile",
+        "url": "http://osgeo-org.1803224.n2.nabble.com/LAYER-LABEL-ANGLE-Calculation-Problem-td2016176.html"
+    },
+    {
+        "add_date": 1316170677,
+        "tags": [
+            "aws"
+        ],
+        "title": "GeoApps in the AWS Cloud - Jinesh Varia",
+        "url": "http://www.slideshare.net/AmazonWebServices/geoapps-in-the-aws-cloud-jinesh-varia"
+    },
+    {
+        "add_date": 1315329185,
+        "tags": [
+            "python",
+            "tool"
+        ],
+        "title": "Tools of the Modern Python Hacker: Virtualenv, Fabric and Pip - electronic.habitat : alex.clemesha",
+        "url": "http://www.clemesha.org/blog/modern-python-hacker-tools-virtualenv-fabric-pip"
+    },
+    {
+        "add_date": 1314195974,
+        "tags": [
+            "python",
+            "paste",
+            "linux"
+        ],
+        "title": "Virtual Env Daemon",
+        "url": "http://stackoverflow.com/questions/4572943/start-a-wsgi-app-from-within-virtualenv-as-a-linux-system-service"
+    },
+    {
+        "add_date": 1314195280,
+        "tags": [
+            "python",
+            "paste",
+            "linux"
+        ],
+        "title": "Python Paste Init Script Debian",
+        "url": "http://wuilly.com/?p=89"
+    },
+    {
+        "add_date": 1312620914,
+        "tags": [
+            "closures",
+            "js"
+        ],
+        "title": "closures js",
+        "url": "http://nathansjslessons.appspot.com/lesson?id=1000"
+    },
+    {
+        "add_date": 1312465131,
+        "tags": [
+            "git",
+            "reference"
+        ],
+        "title": "Got Git? HOWTO git and github -- Less Everything Blog",
+        "url": "http://b.lesseverything.com/2008/3/25/got-git-howto-git-and-github"
+    },
+    {
+        "add_date": 1311594255,
+        "tags": [
+            "git",
+            "reference"
+        ],
+        "title": "Basics of Git Version Control",
+        "url": "http://www.stuartellis.eu/articles/git-basics/"
+    },
+    {
+        "add_date": 1307647581,
+        "tags": [
+            "geoserver"
+        ],
+        "title": "GeoServer HTTP POST",
+        "url": "http://underdark.wordpress.com/tag/geoserver/"
+    },
+    {
+        "add_date": 1306787237,
+        "tags": [
+            "inspiration",
+            "maps",
+            "ui"
+        ],
+        "title": "Explore the Dorset Coast",
+        "url": "http://www.icoast.co.uk/"
+    },
+    {
+        "add_date": 1305664097,
+        "tags": [
+            "art",
+            "starwars"
+        ],
+        "title": "Star Wars Posters",
+        "url": "http://churchm.ag/star-wars-propaganda-posters/#more-37119"
+    },
+    {
+        "add_date": 1304710570,
+        "tags": [
+            "ux",
+            "ui",
+            "usability"
+        ],
+        "title": "Innovative Techniques to Simplify Sign Ups and Logins - UX Movement",
+        "url": "http://uxmovement.com/forms/innovative-techniques-to-simplify-sign-ups-and-logins"
+    },
+    {
+        "add_date": 1303849107,
+        "tags": [
+            "node.js",
+            "documentation"
+        ],
+        "title": "The Node Beginner Book \u00bb A comprehensive Node.js tutorial",
+        "url": "http://nodebeginner.org/"
+    },
+    {
+        "add_date": 1303849016,
+        "tags": [
+            "node.js",
+            "documentation"
+        ],
+        "title": "Felix's Node.js Beginners Guide",
+        "url": "http://nodeguide.com/beginner.html"
+    },
+    {
+        "add_date": 1301994060,
+        "tags": [
+            "money"
+        ],
+        "title": "Which is the most ethical bank? \u00ab Make Wealth History",
+        "url": "http://makewealthhistory.org/2009/01/06/which-is-the-most-ethical-bank/"
+    },
+    {
+        "add_date": 1301164789,
+        "tags": [
+            "wfs",
+            "ogc",
+            "ogr"
+        ],
+        "title": "A quick look at the WFS GDAL Driver",
+        "url": "http://www.paolocorti.net/2011/03/23/a-quick-look-at-the-wfs-gdal-driver/#disqus_thread"
+    },
+    {
+        "add_date": 1297191696,
+        "tags": [
+            "python"
+        ],
+        "title": "Python Tips, Tricks, and Hacks - Siafoo",
+        "url": "http://www.siafoo.net/article/52"
+    },
+    {
+        "add_date": 1296939137,
+        "tags": [
+            "python"
+        ],
+        "title": "Python Idioms and Efficiency Suggestions",
+        "url": "http://jaynes.colorado.edu/PythonIdioms.html"
+    },
+    {
+        "add_date": 1295881134,
+        "tags": [
+            "podcast",
+            "rss",
+            "freedom"
+        ],
+        "title": "iTunes podcast feed convertor",
+        "url": "http://picklemonkey.net/flipper/"
+    },
+    {
+        "add_date": 1295704666,
+        "tags": [
+            "python"
+        ],
+        "title": "Code Like a Pythonista: Idiomatic Python",
+        "url": "http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html"
+    },
+    {
+        "add_date": 1295106077,
+        "tags": [
+            "design",
+            "book",
+            "development"
+        ],
+        "title": "45 Free eBooks for Developers and Designers | Speckyboy ...",
+        "url": "http://speckyboy.com/2011/01/12/45-free-ebooks-for-developers-and-designers/"
+    },
+    {
+        "add_date": 1293742853,
+        "tags": [
+            "opensource",
+            "business"
+        ],
+        "title": "Profiting from open source -- without selling out | Open ...",
+        "url": "http://www.infoworld.com/d/open-source/profiting-open-source-without-selling-out-484?source=rs"
+    },
+    {
+        "add_date": 1293742819,
+        "tags": [
+            "localgov",
+            "linked-data"
+        ],
+        "title": "Local government and linked data at Online Information - Part 2 - Martin Belam's currybetdotnet blog - December 10, 2010",
+        "url": "http://www.currybet.net/cbet_blog/2010/12/local-government-linked-data-online-information.php"
+    },
+    {
+        "add_date": 1293719394,
+        "tags": [
+            "js",
+            "development"
+        ],
+        "title": "RequireJS Javascript dependancy loading",
+        "url": "http://requirejs.org/"
+    },
+    {
+        "add_date": 1291814186,
+        "tags": [
+            "programming",
+            "js",
+            "book"
+        ],
+        "title": "Eloquent JavaScript",
+        "url": "http://eloquentjavascript.net/"
+    },
+    {
+        "add_date": 1291810692,
+        "tags": [
+            "web"
+        ],
+        "title": "Make the web faster - tools and techniques",
+        "url": "http://code.google.com/speed/tools.html"
+    },
+    {
+        "add_date": 1291479340,
+        "tags": [
+            "bikes"
+        ],
+        "title": "Power Grips",
+        "url": "http://www.sjscycles.co.uk/power-grips-trap-free-cycle-toe-straps-black-prod13305/?src=froogle"
+    },
+    {
+        "add_date": 1290369077,
+        "tags": [
+            "python",
+            "xml",
+            "sax"
+        ],
+        "title": "Know Thy Tools: SAX Parsing with Python",
+        "url": "http://www.knowthytools.com/2010/03/sax-parsing-with-python.html"
+    },
+    {
+        "add_date": 1289312784,
+        "tags": [
+            "ubuntu",
+            "proxy",
+            "script"
+        ],
+        "title": "Systemwide proxy settings? - Ubuntu Forums",
+        "url": "http://ubuntuforums.org/showthread.php?t=564538"
+    },
+    {
+        "add_date": 1288711268,
+        "tags": [
+            "mapserver",
+            "variables"
+        ],
+        "title": "MapServer CGI Controls \u2014 MapServer 5.6.5 documentation",
+        "url": "http://mapserver.org/cgi/controls.html"
+    },
+    {
+        "add_date": 1288702018,
+        "tags": [
+            "openlayers",
+            "thematic"
+        ],
+        "title": "OpenLayers data driven style",
+        "url": "http://crschmidt.net/mapping/choropleth.html"
+    },
+    {
+        "add_date": 1288701738,
+        "tags": [
+            "thematic",
+            "openlayers",
+            "colour"
+        ],
+        "title": "Choropleths",
+        "url": "http://demo.mapfish.org/mapfishsample/1.2/examples/geostat/choropleths.html"
+    },
+    {
+        "add_date": 1287845561,
+        "tags": [
+            "postgis",
+            "postgres",
+            "ubuntu"
+        ],
+        "title": "Installing PostGIS on Ubuntu - Thinking in GIS",
+        "url": "http://www.paolocorti.net/2008/01/30/installing-postgis-on-ubuntu/"
+    },
+    {
+        "add_date": 1287582007,
+        "tags": [
+            "jquery",
+            "plugin",
+            "form"
+        ],
+        "title": "Really Simple Validation - JQuery form validation",
+        "url": "http://www.benjaminkeen.com/software/rsv/"
+    },
+    {
+        "add_date": 1287581945,
+        "tags": [
+            "postgres",
+            "database"
+        ],
+        "title": "PostgreSQL Views & Rules",
+        "url": "http://www.baclayon.com/bathroom/postgres/views.php"
+    },
+    {
+        "add_date": 1287233346,
+        "tags": [
+            "jquery",
+            "form",
+            "plugin"
+        ],
+        "title": "Default Value JQuery Plugin",
+        "url": "http://www.unwrongest.com/projects/defaultvalue/"
+    },
+    {
+        "add_date": 1286462311,
+        "tags": [
+            "icons",
+            "download"
+        ],
+        "title": "Iconfinder | Search and download free icons",
+        "url": "http://www.iconfinder.com/"
+    },
+    {
+        "add_date": 1286398946,
+        "tags": [
+            "alienware",
+            "alienfx",
+            "util"
+        ],
+        "title": "AlienFX Lite (Linux + Windows AlienFX tool)",
+        "url": "http://forum.notebookreview.com/alienware/458528-alienfx-lite-linux-windows-alienfx-tool.html"
+    },
+    {
+        "add_date": 1285861885,
+        "tags": [
+            "design",
+            "diagram",
+            "tool"
+        ],
+        "title": "Home - Pencil Project",
+        "url": "http://pencil.evolus.vn/en-US/Home.aspx"
+    },
+    {
+        "add_date": 1285793626,
+        "tags": [
+            "opensource",
+            "opengeo",
+            "collaboration"
+        ],
+        "title": "GeoNode",
+        "url": "http://geonode.org/"
+    },
+    {
+        "add_date": 1285793456,
+        "tags": [
+            "gcloud",
+            "business"
+        ],
+        "title": "Cheat Sheet: G-Cloud | CEO Essentials | silicon.com",
+        "url": "http://www.silicon.com/management/ceo-essentials/2010/02/10/cheat-sheet-g-cloud-39745449/"
+    },
+    {
+        "add_date": 1285793416,
+        "tags": [
+            "postgis",
+            "tutorial"
+        ],
+        "title": "OpenGeo : Spatial Database Tips and Tricks",
+        "url": "http://workshops.opengeo.org/postgis-spatialdbtips/"
+    },
+    {
+        "add_date": 1285793342,
+        "tags": [
+            "opensource",
+            "business"
+        ],
+        "title": "Cameron Shorter: Script for How to sell Open Source to Government",
+        "url": "http://cameronshorter.blogspot.com/2010/09/script-for-how-to-sell-open-source-to.html"
+    },
+    {
+        "add_date": 1285670872,
+        "tags": [
+            "data",
+            "dashboard",
+            "statistics"
+        ],
+        "title": "Data | The World Bank",
+        "url": "http://data.worldbank.org/"
+    },
+    {
+        "add_date": 1285577712,
+        "tags": [
+            "linked-data",
+            "rdf",
+            "book"
+        ],
+        "title": "Linked Data Patterns",
+        "url": "http://patterns.dataincubator.org/book/"
+    },
+    {
+        "add_date": 1284732165,
+        "tags": [
+            "openlayers",
+            "mobile"
+        ],
+        "title": "Touch Gesture Support for OpenLayers",
+        "url": "http://anders.com/cms/352/OpenLayers/iPhone/Android/Touch.Gestures"
+    },
+    {
+        "add_date": 1284051286,
+        "tags": [
+            "map",
+            "osm",
+            "aws"
+        ],
+        "title": "Tile Drawer - AWS / OSM based tile cache",
+        "url": "http://tiledrawer.com/"
+    },
+    {
+        "add_date": 1284051243,
+        "tags": [
+            "html5",
+            "map",
+            "js"
+        ],
+        "title": "HTML5 Tiled Map Library",
+        "url": "http://www.tile5.org/"
+    },
+    {
+        "add_date": 1283545787,
+        "tags": [
+            "phone"
+        ],
+        "title": "Increase/Decrease Time iPhone 3G Rings Before Going to Voice Mail",
+        "url": "http://www.technipages.com/increasedecrease-time-iphone-3g-rings-before-going-to-voice-mail.html"
+    },
+    {
+        "add_date": 1283350723,
+        "tags": [
+            "government",
+            "uk",
+            "community"
+        ],
+        "title": "Communities of Practice for Public Service | Home",
+        "url": "http://www.communities.idea.gov.uk/welcome.do"
+    },
+    {
+        "add_date": 1276674288,
+        "tags": [
+            "pdf",
+            "print"
+        ],
+        "title": "PDF Print driver, windows using Ghostscript",
+        "url": "https://www.stat.tamu.edu/~henrik/GSWriter/GSWriter.html"
+    },
+    {
+        "add_date": 1274202480,
+        "tags": [
+            "news",
+            "work",
+            "osm"
+        ],
+        "title": "Welcome to Mapzen | The easy use OpenStreetMap editor",
+        "url": "http://mapzen.cloudmade.com/"
+    },
+    {
+        "add_date": 1269205278,
+        "tags": [
+            "work",
+            "security",
+            "web"
+        ],
+        "title": "Google Web App Security",
+        "url": "http://code.google.com/p/skipfish/"
+    },
+    {
+        "add_date": 1269205181,
+        "tags": [
+            "news",
+            "work"
+        ],
+        "title": "Every citizen to have personal webpage - Telegraph",
+        "url": "http://www.telegraph.co.uk/technology/news/7484600/Every-citizen-to-have-personal-webpage.html"
+    },
+    {
+        "add_date": 1268597819,
+        "tags": [
+            "news",
+            "work",
+            "maps",
+            "fun"
+        ],
+        "title": "My Way - Abstract City Blog - NYTimes.com",
+        "url": "http://niemann.blogs.nytimes.com/2010/03/10/my-way/"
+    },
+    {
+        "add_date": 1268597739,
+        "tags": [
+            "work",
+            "news",
+            "gis"
+        ],
+        "title": "GIScussions: Recharging my geobatteries at #wherecampeu - an unconference",
+        "url": "http://giscussions.blogspot.com/2010/03/recharging-my-geobatteries-at.html"
+    },
+    {
+        "add_date": 1268171679,
+        "tags": [
+            "blog",
+            "gis"
+        ],
+        "title": "Fuzzy Tolerance",
+        "url": "http://fuzzytolerance.info/"
+    },
+    {
+        "add_date": 1268171646,
+        "tags": [
+            "gis",
+            "maps",
+            "geoserver",
+            "cache"
+        ],
+        "title": "Web Map Tile Cache Strategy",
+        "url": "http://openlayers.org/pipermail/dev/2010-March/005723.html"
+    },
+    {
+        "add_date": 1268043300,
+        "tags": [
+            "blog",
+            "flash",
+            "gis",
+            "maps"
+        ],
+        "title": "indiemaps.com/blog",
+        "url": "http://indiemaps.com/blog/"
+    },
+    {
+        "add_date": 1265577010,
+        "tags": [
+            "news",
+            "work"
+        ],
+        "title": "Maps for iPad hands-on",
+        "url": "http://reviews.cnet.com/8301-12519_7-10444044-49.html?tag=delicious2"
+    },
+    {
+        "add_date": 1265576856,
+        "tags": [
+            "news",
+            "work"
+        ],
+        "title": "Rethinking Open Data - O'Reilly Radar",
+        "url": "http://radar.oreilly.com/2010/02/rethinking-open-data.html"
+    },
+    {
+        "add_date": 1263141071,
+        "tags": [
+            "gis",
+            "design",
+            "news",
+            "work"
+        ],
+        "title": "Ian McHarg - Wikipedia, the free encyclopedia",
+        "url": "http://en.wikipedia.org/wiki/Ian_McHarg"
+    },
+    {
+        "add_date": 1263141037,
+        "tags": [
+            "gis",
+            "design",
+            "news",
+            "work"
+        ],
+        "title": "GIS: Designing Our Future - ArcNews Summer 2009 Issue",
+        "url": "http://www.esri.com/news/arcnews/summer09articles/gis-designing-our-future.html"
+    },
+    {
+        "add_date": 1257423436,
+        "tags": [
+            "icons"
+        ],
+        "title": "DryIcons.com | Free Icons | Classy Icons List - 128x128px",
+        "url": "http://dryicons.com/free-icons/icons-list/classy-icons-set/"
+    },
+    {
+        "add_date": 1257413149,
+        "tags": [
+            "tcl",
+            "howto",
+            "documentation"
+        ],
+        "title": "Tcl tutorial",
+        "url": "http://users.belgacom.net/bruno.champagne/tcl.html"
+    },
+    {
+        "add_date": 1257373606,
+        "tags": [
+            "b&b"
+        ],
+        "title": "Summer Hill Guest House Chester",
+        "url": "http://www.summerhillchester.co.uk/index.htm"
+    },
+    {
+        "add_date": 1256923947,
+        "tags": [
+            "news",
+            "work",
+            "gis",
+            "rest"
+        ],
+        "title": "Between the Poles: FOSS4G: Open Source GeoREST Project Announced",
+        "url": "http://geospatial.blogs.com/geospatial/2009/10/foss4g-open-source-georest-project-announced.html"
+    },
+    {
+        "add_date": 1256923912,
+        "tags": [
+            "news",
+            "work"
+        ],
+        "title": "The need for clear data licenses :: High Earth Orbit",
+        "url": "http://highearthorbit.com/the-need-for-clear-data-licenses/"
+    },
+    {
+        "add_date": 1256923887,
+        "tags": [
+            "work",
+            "news"
+        ],
+        "title": "Will Google and Android Kill Standalone GPS?",
+        "url": "http://mobile.slashdot.org/story/09/10/30/1459253/Will-Google-and-Android-Kill-Standalone-GPS"
+    },
+    {
+        "add_date": 1256503958,
+        "tags": [
+            "video",
+            "talk",
+            "news",
+            "work",
+            "opensource"
+        ],
+        "title": "Paul Ramsey keynote at FOSS4G 2009",
+        "url": "http://www.youtube.com/user/opengeosuite#p/a"
+    },
+    {
+        "add_date": 1256503856,
+        "tags": [
+            "work",
+            "news",
+            "opensource"
+        ],
+        "title": "Arramagong (OSGeo VM) Contents",
+        "url": "http://www.arramagong.com/Arramagong/contents.html"
+    },
+    {
+        "add_date": 1256501633,
+        "tags": [
+            "linux",
+            "dropbox",
+            "howto"
+        ],
+        "title": "Install Dropbox In An Almost Text-Based Linux Environment",
+        "url": "http://wiki.getdropbox.com/TipsAndTricks/AlmostText-BasedLinuxInstall"
+    },
+    {
+        "add_date": 1256501573,
+        "tags": [
+            "dropbox",
+            "linux",
+            "howto"
+        ],
+        "title": "v3gard.com: >> Using Dropbox on Slackware <<",
+        "url": "http://www.v3gard.com/?page=gnulinux&id=48"
+    },
+    {
+        "add_date": 1255007176,
+        "tags": [
+            "wfs",
+            "gis",
+            "web"
+        ],
+        "title": "Web Feature Service - Wikipedia, the free encyclopedia",
+        "url": "http://en.wikipedia.org/wiki/Web_Feature_Service"
+    },
+    {
+        "add_date": 1252868160,
+        "tags": [
+            "news",
+            "work",
+            "gis",
+            "crime"
+        ],
+        "title": "San Francisco Crimespotting",
+        "url": "http://sanfrancisco.crimespotting.org/"
+    },
+    {
+        "add_date": 1252868089,
+        "tags": [
+            "news",
+            "work",
+            "gis",
+            "standards"
+        ],
+        "title": "GeoWeb Standards \u2013 Discoverability :: High Earth Orbit",
+        "url": "http://highearthorbit.com/geoweb-standards-discoverability/"
+    },
+    {
+        "add_date": 1251732910,
+        "tags": [
+            "work",
+            "news"
+        ],
+        "title": "Site Suitability for Microsoft Surface - Windows Live",
+        "url": "http://mrrichie.spaces.live.com/Blog/cns!DD16C3F34F4D913E!3127.entry"
+    },
+    {
+        "add_date": 1251732873,
+        "tags": [
+            "work",
+            "news",
+            "cloud",
+            "gis"
+        ],
+        "title": "ROK Technologies ESRI Developer Blog: ArcGIS Sever In The Cloud Gets A ...",
+        "url": "http://www.roktech.net/devblog/index.cfm/2009/8/26/ArcGIS-Sever-In-The-Cloud-Gets-A-Little-Closer"
+    },
+    {
+        "add_date": 1251042936,
+        "tags": [
+            "work",
+            "news",
+            "gis",
+            "3d"
+        ],
+        "title": "Appliance to Cloud; Cloud to Server - All Points Blog",
+        "url": "http://apb.directionsmag.com/archives/6344-Appliance-to-Cloud;-Cloud-to-Server.html"
+    },
+    {
+        "add_date": 1251042896,
+        "tags": [
+            "work",
+            "news",
+            "gis",
+            "safe"
+        ],
+        "title": "Cloudbursting: The Future for Geospatial | It's All About Data",
+        "url": "http://blog.safe.com/2009/08/cloudbursting-the-future-for-geospatial/"
+    },
+    {
+        "add_date": 1248635652,
+        "tags": [
+            "s3",
+            "rsync",
+            "s3fs",
+            "ubuntu"
+        ],
+        "title": "John Eberly - How I automated my backups to Amazon S3 using rsync and s3fs.",
+        "url": "http://blog.eberly.org/2008/10/27/how-i-automated-my-backups-to-amazon-s3-using-rsync/"
+    },
+    {
+        "add_date": 1247318708,
+        "tags": [
+            "news",
+            "work"
+        ],
+        "title": "James Fee GIS Blog Moving into the cloud",
+        "url": "http://www.spatiallyadjusted.com/2009/07/10/moving-into-the-cloud/"
+    },
+    {
+        "add_date": 1246910267,
+        "tags": [
+            "java",
+            "blackberry",
+            "development",
+            "mobile"
+        ],
+        "title": "BlackBerry - Developer Tutorials \u2013 RIM Developers Tutorial",
+        "url": "http://na.blackberry.com/eng/developers/resources/tutorials.jsp"
+    },
+    {
+        "add_date": 1246544159,
+        "tags": [
+            "programming",
+            "design",
+            "soa"
+        ],
+        "title": "SOA Patterns",
+        "url": "http://www.soapatterns.org/"
+    },
+    {
+        "add_date": 1244555031,
+        "tags": [
+            "gis",
+            "tools",
+            "opensource"
+        ],
+        "title": "OGR2OGR Cheatsheet",
+        "url": "http://www.bostongis.com/PrinterFriendly.aspx?content_name=ogr_cheatsheet"
+    },
+    {
+        "add_date": 1244320223,
+        "tags": [
+            "backup",
+            "sync"
+        ],
+        "title": "Sync Files Across PC, Mac and Mobile Phone: Remote File Access and Perform Backup - SugarSync",
+        "url": "https://www.sugarsync.com/products/sync_pricing.html"
+    },
+    {
+        "add_date": 1244316604,
+        "tags": [
+            "hardware",
+            "backup"
+        ],
+        "title": "ultimate STORAGE ; ultimateSTORAGE.COM - Diskless MirrorDrive II RAID [eSATA - USB]",
+        "url": "http://www.ultimatestorage.biz/index.php?act=viewProd&productId=4#salePrice"
+    },
+    {
+        "add_date": 1241982747,
+        "tags": [
+            "work",
+            "news"
+        ],
+        "title": "Geoportal Extension 9.3.1",
+        "url": "http://gptogc.esri.com/GPT931/catalog/main/home.page"
+    },
+    {
+        "add_date": 1240577600,
+        "tags": [
+            "gis",
+            "work",
+            "etl"
+        ],
+        "title": "PCI Geomatics - Geo-Imaging Products and Solutions",
+        "url": "http://www.pcigeomatics.com/"
+    },
+    {
+        "add_date": 1238958179,
+        "tags": [
+            "work",
+            "news"
+        ],
+        "title": "It is Alive in the Lab: Updated Google Earth Extension Now Available for AutoCAD 2010 Family",
+        "url": "http://labs.blogs.com/its_alive_in_the_lab/2009/03/updated-google-earth-extension-now-available-for-autocad-2010-family.html"
+    },
+    {
+        "add_date": 1238600969,
+        "tags": [
+            "wms",
+            "security"
+        ],
+        "title": "Secure WMS whitepaper",
+        "url": "http://www.secureows.org/securewms/documentation/v1.1/whitepaper_documentation_v1.1.p"
+    },
+    {
+        "add_date": 1238354452,
+        "tags": [
+            "3d",
+            "gis"
+        ],
+        "title": "Slashdot | Khronos Launches Initiative For Standards-Based 3-D Web Content",
+        "url": "http://tech.slashdot.org/article.pl?sid=09/03/25/1754228&from=rss"
+    },
+    {
+        "add_date": 1237667013,
+        "tags": [
+            "geoserver",
+            "security",
+            "documentation"
+        ],
+        "title": "GeoServer - Security subsystem",
+        "url": "http://geoserver.org/display/GEOSDOC/2.6+Security+subsystem"
+    },
+    {
+        "add_date": 1237629069,
+        "tags": [
+            "work",
+            "news"
+        ],
+        "title": "OpenStreetMap 3D Germany - OSM-3D on GDI-3D",
+        "url": "http://www.osm-3d.org/"
+    },
+    {
+        "add_date": 1237148241,
+        "tags": [
+            "news",
+            "work"
+        ],
+        "title": "Between the Poles: GIS for the CAD User",
+        "url": "http://geospatial.blogs.com/geospatial/2009/03/gis-for-the-cad-user.html"
+    },
+    {
+        "add_date": 1236630780,
+        "tags": [
+            "gis",
+            "wps"
+        ],
+        "title": "52n WPS Geoprocessing Community - Welcome",
+        "url": "http://52north.org/maven/project-sites/wps/52n-wps-site/"
+    },
+    {
+        "add_date": 1236630729,
+        "tags": [
+            "work",
+            "interview"
+        ],
+        "title": "Why logic puzzles make good interview questions",
+        "url": "http://imranontech.com/2007/01/10/why-logic-puzzles-make-good-interview-questions/"
+    },
+    {
+        "add_date": 1236630601,
+        "tags": [
+            "work",
+            "interview"
+        ],
+        "title": "techInterview - puzzles and interview questions",
+        "url": "http://www.techinterview.org/"
+    },
+    {
+        "add_date": 1236270434,
+        "tags": [
+            "music"
+        ],
+        "title": "myspace.com/dorianconcept",
+        "url": "http://www.myspace.com/dorianconcept"
+    },
+    {
+        "add_date": 1236009836,
+        "tags": [
+            "work",
+            "jobs"
+        ],
+        "title": "Computing Careers | jobs | Choose from 1290 live vacancies",
+        "url": "http://www.computingcareers.co.uk/"
+    },
+    {
+        "add_date": 1235335632,
+        "tags": [
+            "maps",
+            "programming"
+        ],
+        "title": "SpatiaLite",
+        "url": "http://www.gaia-gis.it/spatialite/"
+    },
+    {
+        "add_date": 1235335565,
+        "tags": [
+            "maps",
+            "mobile"
+        ],
+        "title": "The Cellphone, Navigating Our Lives",
+        "url": "http://www.nytimes.com/2009/02/17/science/17map.html"
+    },
+    {
+        "add_date": 1226917584,
+        "tags": [
+            "maps",
+            "tool",
+            "metatags"
+        ],
+        "title": "MyGeoPosition.com - Free address geocoding / geo-metatags / geotags / kml files!",
+        "url": "http://mygeoposition.com/"
+    },
+    {
+        "add_date": 1225790682,
+        "tags": [
+            "svg",
+            "js"
+        ],
+        "title": "Rapha\u00ebl\u2014JavaScript Library",
+        "url": "http://raphaeljs.com/index.html"
+    },
+    {
+        "add_date": 1224520161,
+        "tags": [
+            "gis",
+            "tiles",
+            "googlemaps"
+        ],
+        "title": "GDAL Tile Utility",
+        "url": "http://www.klokan.cz/projects/gdal2tiles/"
+    },
+    {
+        "add_date": 1224516400,
+        "tags": [
+            "work",
+            "documentation"
+        ],
+        "title": "Home Office Local Crime - Good Practice (PDF)",
+        "url": "http://police.homeoffice.gov.uk/publications/community-policing/code-good-practice-local-crime?view=Binary"
+    },
+    {
+        "add_date": 1219087772,
+        "tags": [
+            "blog",
+            "programming",
+            "gis",
+            "maps"
+        ],
+        "title": "cfis",
+        "url": "http://cfis.savagexi.com/"
+    },
+    {
+        "add_date": 1218527343,
+        "tags": [
+            "google",
+            "maps",
+            "tiles"
+        ],
+        "title": "UCL Centre for Advanced Spatial Analysis",
+        "url": "http://www.casa.ucl.ac.uk/software/gmapcreator.asp"
+    },
+    {
+        "add_date": 1218382064,
+        "tags": [
+            "google",
+            "projections"
+        ],
+        "title": "Spherical Mercator",
+        "url": "http://crschmidt.net/~crschmidt/spherical_mercator.html"
+    },
+    {
+        "add_date": 1217499397,
+        "tags": [
+            "google",
+            "ruby",
+            "tiles"
+        ],
+        "title": "YM4R",
+        "url": "http://ym4r.rubyforge.org/"
+    },
+    {
+        "add_date": 1217499377,
+        "tags": [
+            "google",
+            "ruby",
+            "tiles"
+        ],
+        "title": "attachment_fu + S3 + ruby tile cutter + Google Maps = Easy custom maps in Ruby on Rails | Midnight Oil",
+        "url": "http://blog.aisleten.com/2007/08/25/attachment_fu-s3-ruby-tile-cutter-google-maps-easy-custom-maps-in-ruby-on-rails/"
+    },
+    {
+        "add_date": 1217449451,
+        "tags": [
+            "gis",
+            "google"
+        ],
+        "title": "Google Map Overlay and Tiles examples",
+        "url": "http://www.scribd.com/doc/2528197/custom-google-map"
+    },
+    {
+        "add_date": 1216585845,
+        "tags": [
+            "coordinates",
+            "gis",
+            "maps",
+            "projections",
+            "book"
+        ],
+        "title": "Flat Maps, Round globe",
+        "url": "http://msdn.microsoft.com/en-us/library/cc749633(SQL.100).aspx"
+    },
+    {
+        "add_date": 1214686582,
+        "tags": [
+            "maps",
+            "work",
+            "google",
+            "inspiration"
+        ],
+        "title": "Old OS Maps in Google - reprojected tiles?",
+        "url": "http://www.ponies.me.uk/maps/osmap.html"
+    },
+    {
+        "add_date": 1214683427,
+        "tags": [
+            "maps",
+            "work",
+            "google",
+            "inspiration"
+        ],
+        "title": "Google Map with OS data",
+        "url": "http://www.discovercheshire.co.uk/routeCategory.aspx?region=1&cat=Walking"
+    },
+    {
+        "add_date": 1214407069,
+        "tags": [
+            "maps",
+            "work",
+            "google",
+            "inspiration"
+        ],
+        "title": "BBC NEWS | Science/Nature | Ice diary: Science in the fast-changing Arctic",
+        "url": "http://news.bbc.co.uk/1/hi/sci/tech/7468180.stm"
+    },
+    {
+        "add_date": 1214406923,
+        "tags": [
+            "inspiration",
+            "work"
+        ],
+        "title": "BBC NEWS | UK | British military fatalities in Afghanistan",
+        "url": "http://news.bbc.co.uk/1/hi/uk/7410931.stm"
+    },
+    {
+        "add_date": 1210278670,
+        "tags": [
+            "management"
+        ],
+        "title": "How Joel Grades his Staff",
+        "url": "http://www.joelonsoftware.com/articles/fog0000000038.html"
+    },
+    {
+        "add_date": 1210153454,
+        "tags": [
+            "apache",
+            "failover"
+        ],
+        "title": "Open Minds | Disaster Recovery Specialists",
+        "url": "http://www.openminds.co.uk/homepage_welcome.aspx"
+    },
+    {
+        "add_date": 1210071802,
+        "tags": [
+            "js",
+            "jobs"
+        ],
+        "title": "Find JavaScript jobs on JavaScript Ninja Jobs",
+        "url": "http://jobs.jsninja.com/"
+    },
+    {
+        "add_date": 1207426870,
+        "tags": [
+            "coordinates",
+            "conversion",
+            "js"
+        ],
+        "title": "GeoTools WGS84/OSGB36 Converter for Javascript",
+        "url": "http://www.nearby.org.uk/tests/GeoTools.html"
+    },
+    {
+        "add_date": 1206005462,
+        "tags": [
+            "maps",
+            "2.5d"
+        ],
+        "title": "MapJack - Your City Online",
+        "url": "http://www.mapjack.com/"
+    },
+    {
+        "add_date": 1204661153,
+        "tags": [
+            "geometry"
+        ],
+        "title": "Computer Graphics - Clipping",
+        "url": "http://www.cc.gatech.edu/grads/h/Hao-wei.Hsieh/Haowei.Hsieh/mm.html#sec3"
+    },
+    {
+        "add_date": 1204660725,
+        "tags": [
+            "geometry"
+        ],
+        "title": "Computer Graphics: Principles and ... - Google Book Search",
+        "url": "http://books.google.co.uk/books?id=-4ngT05gmAQC&pg=RA1-PA689&lpg=RA1-PA689&dq=clip+polygon+rectangle&source=web&ots=QVEpg_kxlc&sig=xXO19yWoH3rWVTloz5nWWt90sPk&hl=en#PRA1-PA690,M1"
+    },
+    {
+        "add_date": 1204660698,
+        "tags": [
+            "geometry"
+        ],
+        "title": "Graphics Source Code - CGAFaq",
+        "url": "http://www.cgafaq.info/wiki/Graphics_Source_Code"
+    },
+    {
+        "add_date": 1204649439,
+        "tags": [
+            "math",
+            "graph-paper"
+        ],
+        "title": "MathSphere Free Graph Paper",
+        "url": "http://www.mathsphere.co.uk/resources/MathSphereFreeGraphPaper.htm"
+    },
+    {
+        "add_date": 1204620623,
+        "tags": [
+            "actionscript",
+            "drawing",
+            "api"
+        ],
+        "title": "Actionscript Drawing Classes",
+        "url": "http://www.mediaverk.lv/asd/"
+    },
+    {
+        "add_date": 1203436869,
+        "tags": [
+            "jsp",
+            "tutorial"
+        ],
+        "title": "JSP Tutorials",
+        "url": "http://www.exforsys.com/tutorials/jsp/"
+    },
+    {
+        "add_date": 1202924249,
+        "tags": [
+            "mapserver",
+            "reference"
+        ],
+        "title": "MapServer Map File Reference",
+        "url": "http://umn.mapserver.ch/index_en.php"
+    },
+    {
+        "add_date": 1202131991,
+        "tags": [
+            "apache"
+        ],
+        "title": "Dan Grossman \u00bb Multiple local websites with Apache in Windows",
+        "url": "http://www.dangrossman.info/2007/08/25/multiple-local-websites-with-apache-in-windows/"
+    },
+    {
+        "add_date": 1201639454,
+        "tags": [
+            "usability",
+            "book"
+        ],
+        "title": "Usability and Interface Design Books",
+        "url": "http://www.smashingmagazine.com/2008/01/24/usability-and-interface-design-books/"
+    },
+    {
+        "add_date": 1199784178,
+        "tags": [
+            "tools",
+            "xhtml",
+            "accessibility",
+            "usability"
+        ],
+        "title": "Accessibility tools, markup generators | Accessify",
+        "url": "http://www.accessify.com/tools-and-wizards/"
+    },
+    {
+        "add_date": 1199783513,
+        "tags": [
+            "time-recording",
+            "project-management"
+        ],
+        "title": "Harvest Time is money, track it wisely",
+        "url": "http://www.getharvest.com/features"
+    },
+    {
+        "add_date": 1199742228,
+        "tags": [
+            "stoves"
+        ],
+        "title": "The Firefox 5 Multifel Fuel Stove",
+        "url": "http://www.castfireplaces.co.uk/product_info.php?pid=219"
+    },
+    {
+        "add_date": 1199293238,
+        "tags": [
+            "pdf",
+            "tool"
+        ],
+        "title": "ExpressPDF :: Convert online Word, Excel, Web pages to PDF Free !",
+        "url": "http://www.expresspdf.com/"
+    },
+    {
+        "add_date": 1198961670,
+        "tags": [
+            "usability",
+            "web",
+            "training"
+        ],
+        "title": "Usability Week 2008 Conference",
+        "url": "http://www.nngroup.com/events/"
+    },
+    {
+        "add_date": 1198939589,
+        "tags": [
+            "usability"
+        ],
+        "title": "Virtual Hosting Blog \u00bb Scientific Web Design: 23 Actionable Lessons from Eye-Tracking Studies",
+        "url": "http://www.virtualhosting.com/blog/2007/scientific-web-design-23-actionable-lessons-from-eye-tracking-studies/"
+    },
+    {
+        "add_date": 1198868448,
+        "tags": [
+            "gis"
+        ],
+        "title": "Tile Map Service Specification - OSGEO",
+        "url": "http://wiki.osgeo.org/index.php/Tile_Map_Service_Specification"
+    },
+    {
+        "add_date": 1197293001,
+        "tags": [
+            "escrow"
+        ],
+        "title": "NCC Group Software Escrow services",
+        "url": "http://www.nccgroup.com/services/escrow-solutions/escrow-solutions.aspx"
+    },
+    {
+        "add_date": 1197049305,
+        "tags": [
+            "escrow"
+        ],
+        "title": "Iron Mountain - Escrow",
+        "url": "http://www.ironmountain.co.uk/ipm/segments/developerescrow.asp"
+    },
+    {
+        "add_date": 1197023069,
+        "tags": [
+            "accessibility",
+            "screenreader",
+            "documentation"
+        ],
+        "title": "Window-Eyes 6.1 Manual",
+        "url": "http://www.gwmicro.com/Window-Eyes/Manual/HTML/"
+    },
+    {
+        "add_date": 1196853691,
+        "tags": [
+            "accessibility",
+            "flash"
+        ],
+        "title": "Accessibility: Strategies for accessibility in Flash \u00ab a girl named sue",
+        "url": "http://suzanhill.wordpress.com/2005/05/09/accessibility-strategies-for-accessibility-in-flash/"
+    },
+    {
+        "add_date": 1196786586,
+        "tags": [
+            "java",
+            "programming",
+            "reference"
+        ],
+        "title": "Java Programming Notes",
+        "url": "http://www.leepoint.net/notes-java/index.html"
+    },
+    {
+        "add_date": 1196080183,
+        "tags": [
+            "typography",
+            "book",
+            "css"
+        ],
+        "title": "The Elements of Typographic Style Applied to the Web",
+        "url": "http://webtypography.net/toc/"
+    },
+    {
+        "add_date": 1195324565,
+        "tags": [
+            "usability",
+            "ui",
+            "book"
+        ],
+        "title": "User Interface Design For Programmers - Joel on Software",
+        "url": "http://www.joelonsoftware.com/uibook/fog0000000249.html"
+    },
+    {
+        "add_date": 1195059025,
+        "tags": [
+            "textpad",
+            "macros"
+        ],
+        "title": "<CodeJacked/> \u00bb 5 Tips for Effectively Recording Keystroke Macros",
+        "url": "http://www.codejacked.com/5-tips-for-effectively-recording-keystroke-macros"
+    },
+    {
+        "add_date": 1194880990,
+        "tags": [
+            "js",
+            "dom"
+        ],
+        "title": "Dean Edwards: Yet Another JavaScript Library Without Documentation",
+        "url": "http://dean.edwards.name/weblog/2007/03/yet-another/"
+    },
+    {
+        "add_date": 1194861676,
+        "tags": [
+            "dos",
+            "reference"
+        ],
+        "title": "The 10 Batch File Commands.",
+        "url": "http://www.cs.ntu.edu.au/homepages/bea/home/subjects/ith305/description.html"
+    },
+    {
+        "add_date": 1194629955,
+        "tags": [
+            "programming",
+            "formatter",
+            "tool"
+        ],
+        "title": "Web Developer Tools: Code Beautifier and Formatter | Lifehacker",
+        "url": "http://lifehacker.biz/articles/web-developers-package-code-beautifier-and-formatter/"
+    },
+    {
+        "add_date": 1194300792,
+        "tags": [
+            "floorplans"
+        ],
+        "title": "FBiPlanner\u2122 - design building floor plans online",
+        "url": "http://www.fbibuildings.com/Pages/FBiPlanner.html"
+    },
+    {
+        "add_date": 1193071186,
+        "tags": [
+            "music"
+        ],
+        "title": "MySpace.com - Mathew Jonson - Vancouver, CA - Techno / Drum & Bass / Electro  - www.myspace.com/mathewjonson",
+        "url": "http://www.myspace.com/mathewjonson"
+    },
+    {
+        "add_date": 1193071181,
+        "tags": [
+            "music"
+        ],
+        "title": "MySpace.com - Cobblestone Jazz - Victoria/Vancouver, CA - Techno / House / Jazz  - www.myspace.com/cobblestonejazzmathewjonson",
+        "url": "http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=36328947"
+    },
+    {
+        "add_date": 1193059012,
+        "tags": [
+            "design",
+            "usability",
+            "ui"
+        ],
+        "title": "About the Book - Designing Interfaces",
+        "url": "http://designinginterfaces.com/"
+    },
+    {
+        "add_date": 1191844964,
+        "tags": [
+            "book",
+            "geometry",
+            "math"
+        ],
+        "title": "Amazon.com: Computational Geometry: An Introduction (Monographs in Computer Science): Books: Franco P. Preparata,Michael Ian Shamos",
+        "url": "http://www.amazon.com/Computational-Geometry-Introduction-Monographs-Computer/dp/0387961313/ref=pd_sim_b_2/102-2954771-4536146?ie=UTF8&qid=1187194743&sr=1-3"
+    },
+    {
+        "add_date": 1189004588,
+        "tags": [
+            "gis",
+            "coordinates"
+        ],
+        "title": "Home -- Spatial Reference",
+        "url": "http://www.spatialreference.org/"
+    },
+    {
+        "add_date": 1189004532,
+        "tags": [
+            "json",
+            "gis"
+        ],
+        "title": "FeatureServer",
+        "url": "http://www.featureserver.org/"
+    },
+    {
+        "add_date": 1188376979,
+        "tags": [
+            "maps",
+            "actionscript"
+        ],
+        "title": "Modest Maps",
+        "url": "http://www.modestmaps.com/"
+    },
+    {
+        "add_date": 1188376960,
+        "tags": [
+            "maps",
+            "js"
+        ],
+        "title": "Mapstraction - a javascript library to hide differences between mapping APIs.",
+        "url": "http://www.mapstraction.com/"
+    },
+    {
+        "add_date": 1188319602,
+        "tags": [
+            "music",
+            "blogs"
+        ],
+        "title": "Today's Blog Music / The Hype Machine - discover, listen and buy music discussed on the best mp3 blogs",
+        "url": "http://hypem.com/"
+    },
+    {
+        "add_date": 1187700051,
+        "tags": [
+            "diagram",
+            "tool"
+        ],
+        "title": "Gliffy.com - Create and share diagrams online.",
+        "url": "http://www.gliffy.com/"
+    },
+    {
+        "add_date": 1187282212,
+        "tags": [
+            "gis",
+            "maps"
+        ],
+        "title": "The View from Here - Articles",
+        "url": "http://www.directionsmag.com/article.php?article_id=2210&trv=1"
+    },
+    {
+        "add_date": 1186488898,
+        "tags": [
+            "php",
+            "xml",
+            "simplexml"
+        ],
+        "title": "Parsing XML using SimpleXML",
+        "url": "http://php-coding-practices.com/language-specific/parsing-xml-using-simplexml/"
+    },
+    {
+        "add_date": 1186488873,
+        "tags": [
+            "php",
+            "xml",
+            "dom"
+        ],
+        "title": "Parsing XML With The DOM Library",
+        "url": "http://php-coding-practices.com/language-specific/parsing-xml-with-the-dom-library/"
+    },
+    {
+        "add_date": 1185131561,
+        "tags": [
+            "prototype",
+            "html",
+            "usability",
+            "lightbox",
+            "js"
+        ],
+        "title": "Lightboxes, Modal Windows and Tooltips for Prototype",
+        "url": "http://livepipe.net/projects/control_modal/"
+    },
+    {
+        "add_date": 1184332186,
+        "tags": [
+            "regex",
+            "php",
+            "tutorial"
+        ],
+        "title": "Regular Expressions PHP Tutorial",
+        "url": "http://weblogtoolscollection.com/regex/regex.php"
+    },
+    {
+        "add_date": 1184061328,
+        "tags": [
+            "json",
+            "formatter"
+        ],
+        "title": "JSON Formatter",
+        "url": "http://www.curiousconcept.com/jsonformatter/"
+    },
+    {
+        "add_date": 1183919568,
+        "tags": [
+            "css",
+            "em",
+            "tutorial"
+        ],
+        "title": "How to size text using ems | clagnut/blog",
+        "url": "http://clagnut.com/blog/348/#c790"
+    },
+    {
+        "add_date": 1183919525,
+        "tags": [
+            "css",
+            "em",
+            "calculator"
+        ],
+        "title": "Em Calculator",
+        "url": "http://riddle.pl/emcalc/"
+    },
+    {
+        "add_date": 1183386132,
+        "tags": [
+            "css",
+            "tutorial",
+            "design"
+        ],
+        "title": "css.maxdesign.com.au - CSS resources and tutorials for web designers and web developers",
+        "url": "http://css.maxdesign.com.au/index.htm"
+    },
+    {
+        "add_date": 1181570385,
+        "tags": [
+            "apache",
+            "htaccess",
+            "mod_rewrite"
+        ],
+        "title": "URL Rewriting | redirecting URLs with Apache\u2019s mod_rewrite || HTMLSource ]",
+        "url": "http://www.yourhtmlsource.com/sitemanagement/urlrewriting.html"
+    },
+    {
+        "add_date": 1181202601,
+        "tags": [
+            "web",
+            "testing",
+            "browser"
+        ],
+        "title": "BrowserCam : BrowserCam usability, cross-platform testing, and remote access",
+        "url": "http://www.browsercam.com/Features.aspx"
+    },
+    {
+        "add_date": 1180951340,
+        "tags": [
+            "accessibility",
+            "documentation",
+            "web"
+        ],
+        "title": "Dive Into Accessibility",
+        "url": "http://diveintoaccessibility.org/"
+    },
+    {
+        "add_date": 1180532215,
+        "tags": [
+            "apache",
+            "htaccess",
+            "mod_rewrite"
+        ],
+        "title": "mod_rewrite: A Beginner's Guide to URL Rewriting [Apache & IIS Configuration]",
+        "url": "http://www.sitepoint.com/article/guide-url-rewriting/2"
+    },
+    {
+        "add_date": 1180527538,
+        "tags": [
+            "apache",
+            "htaccess"
+        ],
+        "title": "Behind the Scenes with Apache's .htaccess",
+        "url": "http://brainstormsandraves.com/archives/2005/10/09/htaccess/"
+    },
+    {
+        "add_date": 1179084405,
+        "tags": [
+            "maps",
+            "google",
+            "projections"
+        ],
+        "title": "How Google Map Works - The Code Project - The Scrapbook",
+        "url": "http://www.codeproject.com/useritems/googlemap.asp"
+    },
+    {
+        "add_date": 1178638195,
+        "tags": [
+            "css",
+            "web"
+        ],
+        "title": "CSS: Advanced Formatting and Organization",
+        "url": "http://jarrodspillers.com/articles/2007/03/15/css-formatting-and-organization"
+    },
+    {
+        "add_date": 1178561858,
+        "tags": [
+            "web",
+            "microformats"
+        ],
+        "title": "Microformats: What They Are and How To Use Them | Smashing Magazine",
+        "url": "http://www.smashingmagazine.com/2007/05/04/microformats-what-they-are-and-how-to-use-them/"
+    },
+    {
+        "add_date": 1174592547,
+        "tags": [
+            "programming",
+            "html",
+            "css",
+            "syntax-highlight"
+        ],
+        "title": "google-code-prettify - Google Code",
+        "url": "http://code.google.com/p/google-code-prettify/"
+    },
+    {
+        "add_date": 1174514698,
+        "tags": [
+            "maps",
+            "projections",
+            "php"
+        ],
+        "title": "m. migurski / map_projection",
+        "url": "http://mike.teczno.com/map_projection.html"
+    },
+    {
+        "add_date": 1174512166,
+        "tags": [
+            "projections",
+            "math",
+            "maps",
+            "gis"
+        ],
+        "title": "Mercator Projection -- from Wolfram MathWorld",
+        "url": "http://mathworld.wolfram.com/MercatorProjection.html"
+    },
+    {
+        "add_date": 1174474642,
+        "tags": [
+            "maps",
+            "google",
+            "gis"
+        ],
+        "title": "Lat/Lon To Tile - Google Mapki",
+        "url": "http://mapki.com/index.php?title=Lat/Lon_To_Tile"
+    },
+    {
+        "add_date": 1174472979,
+        "tags": [
+            "gis",
+            "maps",
+            "js"
+        ],
+        "title": "Automatic Tile Cutter - Google Mapki",
+        "url": "http://mapki.com/index.php?title=Automatic_Tile_Cutter"
+    },
+    {
+        "add_date": 1174395819,
+        "tags": [
+            "programming",
+            "documentation",
+            "perl"
+        ],
+        "title": "Learn Perl - Learn Perl:",
+        "url": "http://learn.perl.org/"
+    },
+    {
+        "add_date": 1174319622,
+        "tags": [
+            "maps",
+            "web"
+        ],
+        "title": "W3C Semantic Web Interest Group: Basic Geo (WGS84 lat/long) Vocabulary",
+        "url": "http://www.w3.org/2003/01/geo/"
+    },
+    {
+        "add_date": 1174319598,
+        "tags": [
+            "maps",
+            "programming",
+            "web"
+        ],
+        "title": "Google UK Maps API, plotting items onto UK Google Maps",
+        "url": "http://www.base64.co.uk/google_maps_api_uk.html"
+    },
+    {
+        "add_date": 1173460408,
+        "tags": [
+            "actionscript",
+            "blog",
+            "flex"
+        ],
+        "title": "actionscript cheatsheet - blog: actionscript news, tips, tutorials",
+        "url": "http://actionscriptcheatsheet.com/blog/"
+    },
+    {
+        "add_date": 1172244264,
+        "tags": [
+            "maps",
+            "work",
+            "projections"
+        ],
+        "title": "Information about Irish Map References",
+        "url": "http://www.simonstewart.ie/position/irishgrid.htm"
+    },
+    {
+        "add_date": 1172049054,
+        "tags": [
+            "flash",
+            "diagram"
+        ],
+        "title": "Online diagram tool",
+        "url": "http://www.gliffy.com/gliffy/"
+    },
+    {
+        "add_date": 1171993875,
+        "tags": [
+            "flash",
+            "html",
+            "css",
+            "accessibility"
+        ],
+        "title": "SonSpring | Em Flash Sizing",
+        "url": "http://sonspring.com/journal/em-flash-sizing"
+    },
+    {
+        "add_date": 1171400921,
+        "tags": [
+            "money"
+        ],
+        "title": "Mortgage Calculator",
+        "url": "http://www.mortgagesorter.co.uk/calculators_how_much_cost.html"
+    },
+    {
+        "add_date": 1170261014,
+        "tags": [
+            "flash",
+            "work"
+        ],
+        "title": "White board application",
+        "url": "http://www.imaginationcubed.com/LaunchPage"
+    },
+    {
+        "add_date": 1169653459,
+        "tags": [
+            "gis",
+            "maps"
+        ],
+        "title": "Geonames",
+        "url": "http://geonames.wordpress.com/"
+    },
+    {
+        "add_date": 1169395497,
+        "tags": [
+            "js",
+            "ajax",
+            "dom"
+        ],
+        "title": "jQuery: The Write Less, Do More, JavaScript Library",
+        "url": "http://jquery.com/"
+    },
+    {
+        "add_date": 1169395398,
+        "tags": [
+            "js",
+            "ajax",
+            "prototype"
+        ],
+        "title": "Painless JavaScript Using Prototype [JavaScript & AJAX Tutorials]",
+        "url": "http://www.sitepoint.com/article/painless-javascript-prototype"
+    },
+    {
+        "add_date": 1167247842,
+        "tags": [
+            "mtb",
+            "trails"
+        ],
+        "title": "Coed Llandegla Forest - Mountain Bike Trails and Walks",
+        "url": "http://www.coedllandegla.com/index.htm"
+    },
+    {
+        "add_date": 1165847221,
+        "tags": [
+            "programming",
+            "ruby"
+        ],
+        "title": "Crossing borders: Ajax on Rails",
+        "url": "http://www-128.ibm.com/developerworks/java/library/j-cb12056/"
+    },
+    {
+        "add_date": 1164300665,
+        "tags": [
+            "math",
+            "percentages"
+        ],
+        "title": "Basic stuff on how percentages work",
+        "url": "http://www.netcomuk.co.uk/~jenolive/percent1.html"
+    },
+    {
+        "add_date": 1164294369,
+        "tags": [
+            "js",
+            "programming"
+        ],
+        "title": "Unobtrusive & Persistant Script.aculo.us Effects | Exit 404",
+        "url": "http://www.exit404.com/2005/57/unobtrusive-persistant-scriptaculous-effects"
+    },
+    {
+        "add_date": 1164294291,
+        "tags": [
+            "ruby",
+            "programming"
+        ],
+        "title": "Try Ruby in your browser",
+        "url": "http://tryruby.hobix.com/"
+    },
+    {
+        "add_date": 1164195283,
+        "tags": [
+            "work",
+            "maps"
+        ],
+        "title": "Microsoft Virtual Earth",
+        "url": "http://dev.live.com/virtualearth/sdk/"
+    },
+    {
+        "add_date": 1163523541,
+        "tags": [
+            "flossies"
+        ],
+        "title": "Children's clothing",
+        "url": "http://www.flossiesclothing.co.uk/"
+    },
+    {
+        "add_date": 1163523438,
+        "tags": [
+            "training",
+            "usability"
+        ],
+        "title": "Usability training",
+        "url": "http://www.webcredible.co.uk/services/web-usability-training.shtml"
+    },
+    {
+        "add_date": 1161260156,
+        "tags": [
+            "js",
+            "dom"
+        ],
+        "title": "[brothercake] Scripts",
+        "url": "http://www.brothercake.com/site/resources/scripts/#column"
+    },
+    {
+        "add_date": 1160841367,
+        "tags": [
+            "hosting"
+        ],
+        "title": "Professional UK Web Hosting including Frontpage hosting - NetPivotal.co.uk",
+        "url": "http://www.netpivotal.co.uk/products/"
+    },
+    {
+        "add_date": 1160152297,
+        "tags": [
+            "hosting"
+        ],
+        "title": "Shared Hosting Plans - Dataflame",
+        "url": "http://www.dataflame.co.uk/hostingmain.html"
+    },
+    {
+        "add_date": 1160067729,
+        "tags": [
+            "php"
+        ],
+        "title": "PHP: Dealing with Forms - Manual",
+        "url": "http://uk2.php.net/manual/en/tutorial.forms.php"
+    },
+    {
+        "add_date": 1159796937,
+        "tags": [
+            "js",
+            "xml",
+            "ajax"
+        ],
+        "title": "JKL.ParseXML - parse remote XML file into JavaScript object",
+        "url": "http://www.kawa.net/works/js/jkl/parsexml-e.html#howto"
+    },
+    {
+        "add_date": 1159794753,
+        "tags": [
+            "js",
+            "ajax",
+            "template"
+        ],
+        "title": "JavaScriptTemplates - TrimPath - Trac",
+        "url": "http://trimpath.com/project/wiki/JavaScriptTemplates"
+    },
+    {
+        "add_date": 1159278119,
+        "tags": [
+            "actionscript",
+            "colour",
+            "libaries"
+        ],
+        "title": "AdvancedColor : Downloads : Nate Cook",
+        "url": "http://natecook.com/downloads/color.html"
+    },
+    {
+        "add_date": 1159268944,
+        "tags": [
+            "web",
+            "blog"
+        ],
+        "title": "About | 456 Berea Street",
+        "url": "http://www.456bereastreet.com/"
+    },
+    {
+        "add_date": 1155500812,
+        "tags": [
+            "mapbasic",
+            "dll"
+        ],
+        "title": "MapBasic WinAPI",
+        "url": "http://www.wap3.com/mapbasic/index.shtml"
+    },
+    {
+        "add_date": 1155043257,
+        "tags": [
+            "flex"
+        ],
+        "title": "Flex.org - The directory for Adobe Flex",
+        "url": "http://www.flex.org/"
+    },
+    {
+        "add_date": 1155031649,
+        "tags": [
+            "usability",
+            "event"
+        ],
+        "title": "Nielsen Norman Group: usability consulting, training & user research reports",
+        "url": "http://www.nngroup.com/"
+    },
+    {
+        "add_date": 1155031604,
+        "tags": [
+            "usability",
+            "flash"
+        ],
+        "title": "Flazoom.com - Developing User-Friendly Flash Content",
+        "url": "http://www.flazoom.com/usability/"
+    },
+    {
+        "add_date": 1148411543,
+        "tags": [
+            "music"
+        ],
+        "title": ":: My Life In The Bush Of Ghosts ::",
+        "url": "http://bush-of-ghosts.com/remix/bush_of_ghosts.htm"
+    },
+    {
+        "add_date": 1147851959,
+        "tags": [
+            "music"
+        ],
+        "title": "Selection - Jibbering Records",
+        "url": "http://www.jibberingrecords.com/uk/selection.php"
+    },
+    {
+        "add_date": 1147450757,
+        "tags": [
+            "xml"
+        ],
+        "title": "xml2html.xslt - Rendering of arbitrary XML in (X)HTML",
+        "url": "http://www.linkwerk.com/pub/xml/xml2html/"
+    },
+    {
+        "add_date": 1147433946,
+        "tags": [
+            "html",
+            "dom",
+            "js"
+        ],
+        "title": "slayeroffice | articles | alternatives to innerHTML",
+        "url": "http://slayeroffice.com/articles/innerHTML_alternatives/"
+    },
+    {
+        "add_date": 1146058538,
+        "tags": [
+            "gis"
+        ],
+        "title": "GeoNOVA Portal - Services - Nova Scotia Geographic Web Services",
+        "url": "http://gov.ns.ca/GeoNova/services/nstdb_wms.asp"
+    },
+    {
+        "add_date": 1146040485,
+        "tags": [
+            "mapworld06"
+        ],
+        "title": "Leicestershire County Council - Regionally Important Geological Sites (RIGS)",
+        "url": "http://maps01.leics.gov.uk/rigs24/mapview24.jsp"
+    },
+    {
+        "add_date": 1146040333,
+        "tags": [
+            "mapworld06"
+        ],
+        "title": "ResponseMX - West Midlands Fire Service - Coalesce",
+        "url": "http://www.dottedeyes.com/case_studies/west_midlands_fire.php"
+    },
+    {
+        "add_date": 1145953583,
+        "tags": [
+            "gis",
+            "wms"
+        ],
+        "title": "BeeldBlad",
+        "url": "http://nlr-gis.nlr.nl/beeldblad/index.html"
+    },
+    {
+        "add_date": 1145631886,
+        "tags": [
+            "work"
+        ],
+        "title": "Climate Monitor (internal to Dotted Eyes)",
+        "url": "http://192.168.1.19/"
+    },
+    {
+        "add_date": 1145304071,
+        "tags": [
+            "shop",
+            "ink"
+        ],
+        "title": "SVP - cheap ink",
+        "url": "http://svp.co.uk/index.php"
+    },
+    {
+        "add_date": 1144946491,
+        "tags": [
+            "gis",
+            "projections"
+        ],
+        "title": "Map Projections - Welcome",
+        "url": "http://www.progonos.com/furuti/MapProj/CartIndex/cartIndex.html"
+    },
+    {
+        "add_date": 1144946183,
+        "tags": [
+            "gis",
+            "projections"
+        ],
+        "title": "PROJ.4 - Cartographic Projections Library",
+        "url": "http://proj.maptools.org/"
+    },
+    {
+        "add_date": 1144935847,
+        "tags": [
+            "web"
+        ],
+        "title": "QuirksMode - for all your browser quirks",
+        "url": "http://www.quirksmode.org/index.html?/home.shtml"
+    },
+    {
+        "add_date": 1144926200,
+        "tags": [
+            "mapworld06"
+        ],
+        "title": "Dotted Eyes - ResponseMX",
+        "url": "http://www.dottedeyes.com/rmx/"
+    },
+    {
+        "add_date": 1144859828,
+        "tags": [
+            "flex"
+        ],
+        "title": "ActionScript Projects in Flex Builder 2.0",
+        "url": "http://www.asserttrue.com/articles/2006/04/09/actionscript-projects-in-flex-builder-2-0"
+    },
+    {
+        "add_date": 1144849313,
+        "tags": [
+            "bikes"
+        ],
+        "title": "Singletrack - Mountain Bike Magazine",
+        "url": "http://www.singletrackworld.com/"
+    }
+]

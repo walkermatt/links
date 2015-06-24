@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+}
+
+ul.link-list {
+    list-style: none;
+}
+
+ul.link-list li {
+    padding-bottom: 0.5em;
+}
+
+ul.link-list li h2 {
+    display: inline-block;
+    margin-right: 0.2em;
+    margin-bottom: 0;
+}
+
+ul.link-list li .url {
+    display: inline;
+}
+
+ul.link-list li .url, ul.link-list li .url a, ul.link-list li .tags, ul.link-list li .date {
+    color: gray;
+    text-decoration: none;
+}
+
+ul.link-list li ul.tags {
+    list-style: none;
+    padding-left: 0;
+}
+
+ul.link-list li ul.tags li {
+    display: inline;
+    padding-right: 0.25em;
+}
+
+ul.link-list li .date {
+    font-size: small;
+}
+
+div.link-detail a, div.link-detail time {
+    display: block;
+}
+
+div.link-detail a * {
+    vertical-align: middle;
+}
+
+div.link-detail a img {
+    padding-right: 0.25em;
+}
